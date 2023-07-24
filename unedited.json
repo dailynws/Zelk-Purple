@@ -1,12 +1,12 @@
 {
 	"name": "Zelk",
-	"version": "1.2",
+	"version": "1.6.9",
 	"description": "A port of the popular BD Zelk Theme",
-	"color": "#8dd4f8",
+	"color": "#c88df8",
 	"authors": [
 		{
-			"name": "NEO",
-			"id": "424806150702366723"
+			"name": "n.e.r.o._",
+			"id": "961096910159118346"
 		}
 	],
 	"theme_color_map": {
